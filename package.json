@@ -1,0 +1,14 @@
+{
+  "name": "interweg-linkedin-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "login": "node scripts/login.js",
+    "run": "node scripts/run.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "2",
+    "playwright": "^1.47.0"
+  }
+}
