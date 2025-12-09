@@ -36,3 +36,25 @@ Criar uma landing page rápida, moderna e otimizada para conversão, com foco em
 
 ## 📦 Estrutura do Projeto
 
+automacoes-ia-landing/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── styles.css
+│ └── assets/
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+
+---
+
+## ⚙️ Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
+```bash
+git clone git@github.com:dev-valeria/automacoes-ia-landing.git
+
+
